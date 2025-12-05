@@ -74,6 +74,7 @@ header {
     margin-top: 1rem;
     display: inline-block;
     background: #111;
+    width:8rem;
     border-radius: 10px;
     padding: 0.7rem 2rem;
     transition: 0.3s ease;
