@@ -27,6 +27,7 @@ nav{
   justify-content : center;
   align-items : center;
   gap : 2rem;
+  z-index : 3;
 
   border-radius : 5px;
 
